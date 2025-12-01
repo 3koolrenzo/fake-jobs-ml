@@ -93,3 +93,10 @@ Train the machine learning model
 Save the trained classifier and TF-IDF vectorizer to /models
 
 Generate the confusion matrix in /reports
+
+## Demo
+
+
+https://github.com/user-attachments/assets/462ec452-939f-4037-805e-9edd8091e389
+
+
